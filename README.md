@@ -1,3 +1,5 @@
+<img src="logo.png" />
+
 # express-mongoose-es8-rest-api
 
 ## Description
